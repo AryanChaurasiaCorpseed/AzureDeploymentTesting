@@ -60,3 +60,4 @@ jobs:
           app-name: 'AryanErpLead'
           slot-name: 'production'
           package: '*.jar'
+        
